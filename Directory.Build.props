@@ -1,5 +1,4 @@
 <Project>
-
   <PropertyGroup>
     <LangVersion>preview</LangVersion>
     <WarnOnPackingNonPackableProject>false</WarnOnPackingNonPackableProject>
@@ -9,5 +8,4 @@
     <DebugSymbols>true</DebugSymbols>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-
 </Project>

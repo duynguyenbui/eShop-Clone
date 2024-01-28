@@ -31,7 +31,6 @@
     <ProjectReference Include="..\eShop.ServiceDefaults\eShop.ServiceDefaults.csproj" />
   </ItemGroup>
 
-
   <ItemGroup>
     <InternalsVisibleTo Include="Catalog.FunctionalTests" />
   </ItemGroup>
